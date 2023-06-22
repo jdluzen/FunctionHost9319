@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionHost9319": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7143",
+      "launchBrowser": false
+    }
+  }
+}
